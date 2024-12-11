@@ -10,6 +10,19 @@ When I'm not developing themes or optimizing designs, I enjoy mentoring trainees
 - 🎯 I believe in clean, concise code that balances aesthetics with functionality.
 - 📚 I'm always eager to learn and explore the latest web technologies.
 
+# 📊 GitHub Stats:
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahien&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahien&theme=radical&hide_border=false)
+<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
+<br/>
+## 🗓️ Contribution Graph
+
+<p align="center">
+  <a href="https://wakatime.com/@Goblin8888">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-shahien&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
+  </a>
+</p> 
 ## 🤖 Skills and Technologies
 
 <p align="left">
@@ -107,21 +120,10 @@ When I'm not developing themes or optimizing designs, I enjoy mentoring trainees
   </a>
 </p>
 
-# 📊 GitHub Stats:
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahien&theme=radical&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahien&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
-<img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
-<br/>
 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=mohamed-shahien&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-## 🗓️ Contribution Graph
 
-<p align="center">
-  <a href="https://wakatime.com/@Goblin8888">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohamed-shahien&theme=react-dark&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo" width="95%" alt="activity graph">
-  </a>
-</p>
