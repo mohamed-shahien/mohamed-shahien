@@ -11,13 +11,13 @@ When I'm not developing themes or optimizing designs, I enjoy mentoring trainees
 - 📚 I'm always eager to learn and explore the latest web technologies.
 
 # 📊 GitHub Stats:
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahien&theme=radical&hide_border=false)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahien&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahien&theme=radical&hide_border=false)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahien&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
-![](https://github-readme-stats.vercel.app/api?username=mohamed-shahien&theme=radical&hide_border=true&include_all_commits=true&count_private=true)
 
-<br/>
+![GitHub followers](https://img.shields.io/github/followers/mohamed-shahien?style=social)
+![GitHub stars](https://img.shields.io/github/stars/mohamed-shahien?style=social)
+
 ## 🗓️ Contribution Graph
 
 <p align="center">
