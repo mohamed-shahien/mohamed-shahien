@@ -12,9 +12,9 @@ When I'm not developing themes or optimizing designs, I enjoy mentoring trainees
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahien&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahien&theme=radical&hide_border=true)
 <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" alt="About Me GIF" width="200px">
-![](https://github-readme-streak-stats.herokuapp.com/?user=mohamed-shahien&theme=radical&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-shahien&theme=radical&border=false&include_all_commits=true&count_private=true&layout=compact)
 <br/>
 ## 🗓️ Contribution Graph
 
