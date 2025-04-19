@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Mohamed+Mahmoud..;Front-End+Developer;MERN+Stack+Developer;Salla,+Zid+,+Shopify+Themes+Specialist..;E-commerce+Enthusiast..;Empowering+Clients..;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
+<img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Hi👋+I'm+Mohamed+Mahmoud..;MERN+Stack+Developer;Front-End+Developer;Salla,+Zid+,+Shopify+Themes+Specialist..;E-commerce+Enthusiast..;Empowering+Clients..;Nice+To+Meet+You+....&center=true" alt="Typing SVG">
 Creative Front-End Developer with extensive experience in designing and developing themes for platforms like Salla, Zid, and Shopify. I specialize in creating intuitive and user-friendly interfaces tailored for the Gulf and global markets. My goal is to empower businesses with high-performance, visually appealing, and functional e-commerce stores.
 
 When I'm not developing themes or optimizing designs, I enjoy mentoring trainees, exploring innovative solutions, and delivering professional results to clients.
